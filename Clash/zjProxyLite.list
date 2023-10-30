@@ -1,0 +1,67 @@
+# 代理列表
+
+# MyList && Other
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,bit.no.com
+DOMAIN-SUFFIX,btlibrary.me
+DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,inoreader.com
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,ping.pe
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,teddysun.com
+DOMAIN-SUFFIX,tumbex.com
+DOMAIN-SUFFIX,twdvd.com
+DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com
+DOMAIN-SUFFIX,yunpanjingling.com
+DOMAIN-SUFFIX,5278.org
+DOMAIN-SUFFIX,224hou.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,nivod.tv
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,ttzytp3.com
+DOMAIN-SUFFIX,tongji20.com
+DOMAIN-SUFFIX,121av.cc
+DOMAIN-SUFFIX,nivod3.tv
+DOMAIN-SUFFIX,nivodz.com
+DOMAIN-SUFFIX,abcm3i67y22.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,googlevideo.com
+
+
+# dns泄露
+DOMAIN-KEYWORD,astrill
+
+# 国外域名
+DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,hk
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,sg
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,us
+
+# 国外域名关键字
+DOMAIN-KEYWORD,pureapk
+DOMAIN-KEYWORD,biggggg
+DOMAIN-KEYWORD,mudvod
+DOMAIN-KEYWORD,nbyy
+DOMAIN-KEYWORD,xray
+DOMAIN-KEYWORD,xvideos
+DOMAIN-KEYWORD,heroku
+DOMAIN-KEYWORD,openvpn
+DOMAIN-KEYWORD,nivod

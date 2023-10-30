@@ -1,12 +1,5 @@
-<h4 align="center">访客数 :eyes:</h4>
-
-<p align="center">
-<img  src="https://profile-counter.glitch.me/cncoot_ACL4SSR/count.svg" alt="Sub :: Visitor's Count" />
- <img width=0 height=0 src="https://profile-counter.glitch.me/cncoot/count.svg" alt="cncoot:: Visitor's Count" />
-</p>
 # SSR去广告规则/GFWList规则/Clash规则碎片
 
-* CDN更新状态：[![Actions Status](https://github.com/ACL4SSR/ACL4SSR/workflows/Purge%20CDN%20Cache/badge.svg)](https://github.com/ACL4SSR/ACL4SSR/actions)
 * 项目基于CC-BY-SA-4.0协议发布  [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * 仅推荐未root的安卓手机使用。
 * Telegram频道订阅地址：**[https://t.me/ACL4SSR](https://t.me/ACL4SSR)**
@@ -29,13 +22,13 @@
 
 文件               | 默认  | 去广告  | 局域网 |   国内IP段  |   国内域名    |     国外
 ----              | ----  |  ----  | ----  |   ----     |     ----     |    ----
-[banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl)         |  代理  |   是   |  直连  |    有-直连  | 常用域名-直连  |  代理-常用国外域名增强
-[onlybanAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/onlybanAD.acl)     |  代理  |   是   |  直连  |    无      |    无         |  代理-常用国外域名增强
-[nobanAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/nobanAD.acl)       |  代理  |   否   |  直连  |    有-直连  |  常用域名-直连 |  全局代理
-[backcn-banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/backcn-banAD.acl)  |  代理  |   是   |  直连  |    有-代理  |    无         | 直连-gfwlist列表 
-[gfwlist-banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl) |  直连  |   是   |  直连  |    无      |    无         |  代理-gfwlist列表
-[fullgfwlist.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl )   |  直连  |   否   |  直连  |    无      |    无         |  代理-gfwlist列表
-[gfwlist-user.rule](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-user.rule) |  直连  |   是   |  直连  |    无      |     无        |  代理-gfwlist列表
+[banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Acl/banAD.acl)         |  代理  |   是   |  直连  |    有-直连  | 常用域名-直连  |  代理-常用国外域名增强
+[onlybanAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Acl/onlybanAD.acl)     |  代理  |   是   |  直连  |    无      |    无         |  代理-常用国外域名增强
+[nobanAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Acl/nobanAD.acl)       |  代理  |   否   |  直连  |    有-直连  |  常用域名-直连 |  全局代理
+[backcn-banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Acl/backcn-banAD.acl)  |  代理  |   是   |  直连  |    有-代理  |    无         | 直连-gfwlist列表 
+[gfwlist-banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Acl/gfwlist-banAD.acl) |  直连  |   是   |  直连  |    无      |    无         |  代理-gfwlist列表
+[fullgfwlist.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Acl/fullgfwlist.acl )   |  直连  |   否   |  直连  |    无      |    无         |  代理-gfwlist列表
+[gfwlist-user.rule](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Acl/gfwlist-user.rule) |  直连  |   是   |  直连  |    无      |     无        |  代理-gfwlist列表
 
 
 
@@ -112,18 +105,6 @@
 * SSR C# GFWList user.rule ：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-user.rule
 
 
-* SS：https://github.com/shadowsocks
-* SSR-WIN：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
-* SSR-安卓：https://github.com/shadowsocksr/shadowsocksr-android/releases
-
-# ♻️ Surge/Shadowrocket Config File Download：
-* 请到相关项目页面根据说明配置 https://github.com/lhie1/Rules
-
-📋 教程 / 说明：
-* 打开SSR->路由->自定义acl文件->输入下载地址->更新
-* 再次更新，点击软件页面底部的更新即可
-
-
 # Root手机推荐：
 * 1.自带去广告的VIA浏览器 http://www.coolapk.com/apk/mark.via
 * 2.HOSTS 广告快走中国版 http://www.coolapk.com/apk/mark.via
@@ -133,14 +114,10 @@
 
 
 # 注：
-* 参照lhie1大神的surge规则改编，致谢!! https://github.com/lhie1/Surge
 
 * 浏览器内部广告太多了，单凭几百条规则可能过滤不过来。少许遗漏，请谅解
 
 * 有问题请发issue,说明状况和所用规则。
-
-* temp文件夹为历史存档 要找以前的版本可以下那个
-	
 
 # License		
 [![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)

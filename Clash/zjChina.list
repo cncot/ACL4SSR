@@ -1,0 +1,42 @@
+
+# IP-CIDR,1.0.1.0/24,no-resolve
+# 自己添加的域名  DOMAIN-SUFFIX, DOMAIN-KEYWORD,
+USER-AGENT,huanqiu*
+USER-AGENT,btnull*
+USER-AGENT,cupfox*
+DOMAIN-SUFFIX,huanqiu.com
+DOMAIN-SUFFIX,caixin.com
+DOMAIN-SUFFIX,btnull.org
+DOMAIN-SUFFIX,cupfox.app
+DOMAIN-SUFFIX,cankaoxiaoxi.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,crewcn.com
+DOMAIN-SUFFIX,36mh.app
+DOMAIN-SUFFIX,pysmei.com
+DOMAIN-SUFFIX,chinadegi.com
+DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,chinadegi.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,leeyegy.com
+DOMAIN-SUFFIX,apphaiwangxing.com
+DOMAIN-SUFFIX,qzbonline.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,kkmh.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,net.cn
+DOMAIN-SUFFIX,hywlcm.cn
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,lanzoux.com
+DOMAIN-SUFFIX,dnsapi.cn
+DOMAIN-SUFFIX,dynv6.com
+
+
+
+
+# 中国国内常见域名关键词直连
+DOMAIN-KEYWORD,toutiao
