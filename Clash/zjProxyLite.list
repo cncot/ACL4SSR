@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,googlevideo.com
-
+DOMAIN-SUFFIX,googleapis.com
 
 # dns泄露
 DOMAIN-KEYWORD,astrill
@@ -62,6 +62,8 @@ DOMAIN-KEYWORD,mudvod
 DOMAIN-KEYWORD,nbyy
 DOMAIN-KEYWORD,xray
 DOMAIN-KEYWORD,xvideos
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,googleapis
 DOMAIN-KEYWORD,heroku
 DOMAIN-KEYWORD,openvpn
 DOMAIN-KEYWORD,nivod
