@@ -35,10 +35,12 @@ DOMAIN-SUFFIX,online6.com
 DOMAIN-SUFFIX,btnull.si
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,soso.com
+DOMAIN-SUFFIX,openkylin.top
 
 
 # 中国国内常见域名关键词直连
 DOMAIN-KEYWORD,toutiao
+DOMAIN-KEYWORD,openkylin
 DOMAIN-KEYWORD,.cn
 DOMAIN-KEYWORD,gov.cn
 DOMAIN-KEYWORD,btnull
